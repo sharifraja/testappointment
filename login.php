@@ -14,7 +14,7 @@
 				<!-- end login -->
 				</div>
 				<div class="span12">
-				<div class="caption_index">we provide the best quality dental service</div>
+				<div class="caption_index">Save your Time and Energy By Using Our Service</div>
 				</div>		
 				<div class="clearfix"></div>
 				<div class="span12">
